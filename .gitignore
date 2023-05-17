@@ -2,3 +2,4 @@ venv
 db.sqlite3
 .coverage
 .pytest_cache
+.env
